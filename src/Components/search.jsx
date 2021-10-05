@@ -20,7 +20,7 @@ function Search({items}){
         <input 
             className="searchInput"
             type="text"
-            placeholder={"search ...."}
+            placeholder={"search item by name ...."}
             onChange = {handleChange}
        />
        <br/>
