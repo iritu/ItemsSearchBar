@@ -45,7 +45,7 @@ const data = [
     "img": `${tiger}`
   },
   {
-    "char_id": 7,
+    "char_id": 8,
     "name": "Grey wolf",
     "img": `${wolf}`
   }
