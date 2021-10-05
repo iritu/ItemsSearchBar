@@ -24,7 +24,6 @@ const MainApp = () => {
         <div className='container'>
             <Header />
             <Search isLoading={isLoading} items={items} />
-            {/* <PeopleGrid isLoading={isLoading} items={items} /> */}
         </div>
     );
 }

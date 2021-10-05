@@ -18,6 +18,7 @@ function Search({items}){
     return(
         <>
         <input 
+            className="searchInput"
             type="text"
             placeholder={"search ...."}
             onChange = {handleChange}
